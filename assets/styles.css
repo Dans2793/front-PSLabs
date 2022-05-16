@@ -1,0 +1,56 @@
+.navbar-color {
+  background: #01504a;
+}
+
+.navbar-text {
+    font-weight: 600;
+}
+
+.btn-color {
+  background: #01504a;
+}
+.text-color {
+  color: #01504a;
+}
+
+.linea-color {
+  background: #01504a;
+}
+
+.tarjeta {
+  height: 380px;
+  width: 335px;
+  margin-bottom: 100px;
+}
+
+.tarjeta2 {
+  width: 480px;
+  margin-left: 80px;
+  margin-top: 55px;
+  margin-right: 80px;
+}
+
+.links-navbar {
+    text-decoration: none;
+    color: white;
+    opacity: 50%;
+    font-size: small;
+    margin-bottom: 5px;
+}
+
+
+.boton-navbar:focus {
+    background: white;
+    box-shadow: 0 0 0 0;
+    color: black !important;
+        
+}
+
+.imagen-money {
+    margin-left: 130px;
+    margin-top: 250px;
+    padding-right: 10px;
+
+}
+
+
